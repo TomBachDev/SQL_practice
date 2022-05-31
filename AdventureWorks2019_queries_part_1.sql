@@ -16,7 +16,7 @@ ORDER BY
 	Wiek DESC, NazwiskoImię DESC
 
 -- Wyświetl sprzedawcę, który obsłużył zamówienia o największej wartości.
--- (LEFT JOIN, CAST(), ROUND(), SUM(), GROUP BY,  )
+-- (LEFT JOIN, CAST(), ROUND(), SUM(), GROUP BY)
 SELECT	TOP 1
 	PP.BusinessEntityID AS [ID pracownika],
 	PP.FirstName + ' ' + PP.LastName AS [Imię i nazwisko],

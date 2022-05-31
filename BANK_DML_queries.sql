@@ -1,7 +1,6 @@
 -- BANK DataBase (resources: anonco.pl)
 -- DML SQL queries - data exploration project
-USE
-	BANK
+USE BANK;
 
 -- Zestawienie zarobków pracowników 
 --(SELECT, ORDER BY, CAST, ROUND(), alias)

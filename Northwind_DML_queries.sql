@@ -133,7 +133,6 @@ ORDER BY
 
 -- Oblicz ilość klientów z min.1 zamówieniem i bez zamówienia.
 -- (COUNT, LEFT JOIN)
-
 SELECT
 	((SELECT
 		COUNT(*)
