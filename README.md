@@ -2,6 +2,7 @@
 Exercises and queries written based on free online courses and resources used during my T-SQL learning journey.
 
 ## *AdventureWorks2019_queries_part_2.sql* [ENG]
+[AdventureWorks sample databases](https://github.com/Microsoft/sql-server-samples/releases/tag/adventureworks)
 * Common Table Expression (CTE)
 * window function: RANK
 * variables
@@ -13,6 +14,7 @@ Exercises and queries written based on free online courses and resources used du
 * Transactions: COMMIT/ROLLBACK, XACT_STATE
 
 ## *AdventureWorks2019_queries_part_1.sql* [PL]
+[AdventureWorks sample databases](https://github.com/Microsoft/sql-server-samples/releases/tag/adventureworks)
 * subqueries
 * JOINs
 * derived table
@@ -31,6 +33,7 @@ Basic database creation script - *DDL*.
 * INSERT INTO...
 
 ## *Northwind_DML_queries.sql* [PL]
+[Northwind sample databases](https://github.com/microsoft/sql-server-samples/tree/master/samples/databases/northwind-pubs)
 * aggregate functions
 * date functions
 * INNER JOIN, LEFT JOIN
